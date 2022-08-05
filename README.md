@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-⊗ 👨🏻‍💻 I’m currently working on my health and personal growth
+⊗ 📈 I’m currently working on my health and personal growth
 
-⊕ 🌱 I’m currently learning cybersecurity fundamentals
+⊕ 👨🏻‍💻 I’m currently learning cybersecurity fundamentals
 
 ⊗ 💬 Ask me about anything
 <!--
