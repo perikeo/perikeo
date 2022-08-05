@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+⊗ 👨🏻‍💻 I’m currently working on my health and personal growth
+
+⊕ 🌱 I’m currently learning cybersecurity fundamentals
+
+⊗ 💬 Ask me about anything
 <!--
 **perikeo/perikeo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
